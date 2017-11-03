@@ -1,0 +1,13 @@
+logs
+bower_components
+node_modules
+
+dump.rdb
+npm-debug.log
+.DS_Store
+.npm
+*.logs
+*.map
+*~
+*.swp
+*.swo
